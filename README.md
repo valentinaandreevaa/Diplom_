@@ -39,7 +39,7 @@ https://alert-zinnia-0bf.notion.site/b5716af228a84e32aa0af68654c1f022
 ## Установка
 
 1. Клонируйте репозиторий:
-git clone 
+git clone https://github.com/valentinaandreevaa/Diplom_.git 
 
 2. Перейдите в каталог проекта
 Chitai-gorod
